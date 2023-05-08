@@ -18,7 +18,7 @@ print the program.
 ## Program:
 ```
 using System;
-namespace EX06
+namespace OperOverload
 {
     class Program
     {
@@ -46,7 +46,8 @@ namespace EX06
         {
             Program p1 = new Program(12);
             Program p4 = new Program();
-            if (p4 == p1)
+            Program p2 = p4;
+            if (p2 == p4)
             {
                 Console.WriteLine("They both are equal");
             }
@@ -57,6 +58,11 @@ namespace EX06
         }
     }
 }
+
+
+
+
+
 ```
 ## Output:
 ![](1.png)
