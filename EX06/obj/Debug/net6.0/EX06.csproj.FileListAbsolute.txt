@@ -1,0 +1,15 @@
+D:\C#\Operator-Overloading\EX06\bin\Debug\net6.0\EX06.exe
+D:\C#\Operator-Overloading\EX06\bin\Debug\net6.0\EX06.deps.json
+D:\C#\Operator-Overloading\EX06\bin\Debug\net6.0\EX06.runtimeconfig.json
+D:\C#\Operator-Overloading\EX06\bin\Debug\net6.0\EX06.dll
+D:\C#\Operator-Overloading\EX06\bin\Debug\net6.0\EX06.pdb
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.csproj.AssemblyReference.cache
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.AssemblyInfoInputs.cache
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.AssemblyInfo.cs
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.csproj.CoreCompileInputs.cache
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.dll
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\refint\EX06.dll
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.pdb
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\EX06.genruntimeconfig.cache
+D:\C#\Operator-Overloading\EX06\obj\Debug\net6.0\ref\EX06.dll
